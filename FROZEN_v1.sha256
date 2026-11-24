@@ -1,1 +1,4 @@
-$file:/workspace/publish_staging/mplus-chain-lean/FROZEN_v1.sha256
+f069e2ed9771d2ec315b659518043d9784fa4f4017569441b6a55e81081704f3  MplusChain.lean
+21f7c3ee76c9c74132af26c20153a1f1eb5c4373abd85146cd7231f3640a3d56  Axioms.lean
+8fc3dca83cdfe775f987c773d77664fa7b6989f077dc0edfa0ae88ac38725044  lakefile.toml
+ca5f1f601d34c49079e38d7e7041eb0f2a9c227fbc1df0f404820069a052330c  lean-toolchain

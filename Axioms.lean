@@ -1,1 +1,5 @@
-$file:/workspace/publish_staging/mplus-chain-lean/Axioms.lean
+import MplusChain
+#print axioms LucasMplus.P_eig
+#print axioms LucasMplus.Q_eig
+#print axioms LucasMplus.A_eig
+#print axioms LucasMplus.u3_val

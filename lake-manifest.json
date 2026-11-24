@@ -1,1 +1,6 @@
-$file:/workspace/publish_staging/mplus-chain-lean/lake-manifest.json
+{"version": "1.3.0",
+ "packagesDir": ".lake/packages",
+ "packages": [],
+ "name": "mplusChain",
+ "lakeDir": ".lake",
+ "fixedToolchain": false}
